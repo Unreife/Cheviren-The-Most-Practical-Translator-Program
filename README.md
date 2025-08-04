@@ -12,7 +12,7 @@ Usage is very simple:
 
 ---Start the program by double clicking the .exe file,
 
----Choose your Main Language from Tray Menu,
+---Choose your Main Language ("Ana Dil" in Turkish) from Tray Menu,
 
 ---Copy the text you wanted to translate and you will see the translation of the choosen text at next to your mouse cursor.
 
