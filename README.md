@@ -16,5 +16,7 @@ Usage is very simple:
 
 ---Copy the text you wanted to translate and you will see the translation of the choosen text at next to your mouse cursor.
 
+---I tried but in case it doesn't start on its own when you open the PC you can read this:
+https://www.howtogeek.com/138159/how-to-enable-programs-and-custom-scripts-to-run-at-boot/
 
 I tried to make it as good as i can but it might have some problems.
