@@ -6,7 +6,8 @@ You can install the Cheviren.zip file to use this program.
 
 Usage is very simple:
 
--Download it,
+-Download the Cheviren.zip file,
+-Extract it,
 -Start the program by double clicking the .exe file,
 -Choose your Main Language from Tray Menu,
 -Copy the text you wanted to translate and you will see the translation of the choosen text at next to your mouse cursor.
