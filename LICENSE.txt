@@ -1,9 +1,0 @@
-Copyright (c) 2025 Oğuz İsa Erol
-
-This software is provided for personal and non-commercial use only.
-
-You may use, copy, modify, and distribute this software for non-commercial purposes, provided that this notice is retained.
-
-Commercial use is strictly prohibited without prior written permission from the author.
-
-For commercial licensing, please contact: eoguztel1@gmail.com
