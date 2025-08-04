@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "93CUypIzedI=",
+  "success": true,
+  "projectFilePath": "C:\\Cheviren\\Cheviren\\Cheviren.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oguzi\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.18\\microsoft.netcore.app.runtime.win-x86.8.0.18.nupkg.sha512",
+    "C:\\Users\\oguzi\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.18\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.18.nupkg.sha512",
+    "C:\\Users\\oguzi\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.18\\microsoft.aspnetcore.app.runtime.win-x86.8.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
