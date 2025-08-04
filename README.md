@@ -1,0 +1,15 @@
+Hi!
+
+This is my first hobby project Cheviren and its a translation tool for the people who try to translate things faster.
+
+You can install the Cheviren.zip file to use this program. 
+
+Usage is very simple:
+
+-Download it,
+-Start the program by double clicking the .exe file,
+-Choose your Main Language from Tray Menu,
+-Copy the text you wanted to translate and you will see the translation of the choosen text at next to your mouse cursor.
+
+
+I tried to make it as good as i can but it might have some problems.
